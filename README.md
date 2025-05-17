@@ -15,5 +15,7 @@ This project explores whether precious metals and diversified commodity indices 
 
 Institutional investors should consider multi-asset exposure (e.g., REITs, hedge funds, private equity) for more robust risk mitigation.
 
-To run the project on your own machine, please import the dataset from the following Excel file: 
-📂 Download the dataset: [Data.xlsx](./Data.xlsx)
+To run the project on your own machine, please import the dataset and STATA code from the following Excel and do.File: 
+### 📂 Download the dataset: [Data.xlsx](./Data.xlsx)
+
+### 📂 Download the code: (`.do`)
