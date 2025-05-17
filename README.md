@@ -3,7 +3,7 @@ Stata | Quantitative Finance | Time-Series Econometrics
 
 This project explores whether precious metals and diversified commodity indices (TRCC, BCOM) provide reliable portfolio insurance during equity market crises. Using monthly data from 1985–2025 and focusing on systemic episodes (GFC, COVID-19, Tech-Bubble), it evaluates both naïve and mean-variance portfolios through CAPM, quantile regression, rolling beta/correlation, and tail-risk diagnostics.
 
-🔍 Overview of Process
+# 🔍 Overview of Process
 ## Data & Motivation:
 - We construct portfolios using gold, silver, platinum, TRCC, BCOM, and the S&P500. Motivated by concerns around bond fragility and financialisation, we evaluate whether alternatives reduce downside risk and systemic exposure in crisis regimes.
 
