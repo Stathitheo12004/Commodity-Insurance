@@ -1,6 +1,7 @@
 Portfolio Insurance: Exploring the Safe-Haven Nature of Commodities During Stock Market Turmoil.
 
-To run the project on your own machine, please import the dataset from the following Excel file: 📂 Download the dataset: [Data.xlsx](./Data.xlsx)
+To run the project on your own machine, please import the dataset from the following Excel file: 
+📂 Download the dataset: [Data.xlsx](./Data.xlsx)
 
 
 📁 Portfolio Insurance in Systemic Crises – A Commodity Market Perspective
