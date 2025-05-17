@@ -18,7 +18,8 @@ Institutional investors should consider multi-asset exposure (e.g., REITs, hedge
 To run the project on your own machine, please import the dataset and STATA code from the following Excel and do.File: 
 ### 📂 Download the dataset: [Data.xlsx](./Data.xlsx)
 
-### 📂 Download the code: [STATA Do.File.do](./STATA%20Do.File.do)
+### 📂 Download the code: [100387171 ECO-6004B Do.File.do](./100387171%20ECO-6004B%20Do.File.do)
+
 
 
 
