@@ -1,5 +1,5 @@
 # 📁 **Portfolio Insurance in Systemic Crises – Commodities**
-Stata | Quantitative Finance | Time-Series Econometrics
+Stata | Finance | Time-Series Econometrics
 
 This project explores whether precious metals and diversified commodity indices (TRCC, BCOM) provide reliable portfolio insurance during equity market crises. Using monthly data from 1985–2025 and focusing on systemic episodes (GFC, COVID-19, Tech-Bubble), it evaluates both naïve and mean-variance portfolios through CAPM, quantile regression, rolling beta/correlation, and tail-risk diagnostics.
 
